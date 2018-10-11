@@ -2,7 +2,7 @@
 
 **Simple Operating System based on Linux kernel, built with Linux From Scratch**
 
-*Personal project for academic use. Built from crouton Ubuntu 14.04*
+*Personal project for academic use. Built from Debian 9 Stretch*
 
 ## Authors
 
@@ -10,9 +10,10 @@
 
 ## Development base
 
-  - Inspired from *[Linux From Scratch](http://www.linuxfromscratch.org/)* PDF book versions *7.9* and **8.0**.
+  - Inspired from *[Linux From Scratch](http://www.linuxfromscratch.org/)* PDF book versions *7.9*, *8.0* and **8.3** with *System-d*.
   - The very first version will be pure 32 bits.
-  - Built from host Ubuntu Trusty 14.04 for Chromebook (using [crouton](https://github.com/dnschneid/crouton)).
+  - ~~Built from host Ubuntu Trusty 14.04 for Chromebook (using [crouton](https://github.com/dnschneid/crouton))~~.
+  - Built from **Debian 9 Strech** on `amd64`.
 
 ## Main goals
 
@@ -32,3 +33,4 @@
 
   - [Linux From Scratch PDF Book 7.9 - LFS - French](docs/LFS-7.9-fr.pdf)
   - [Linux From Scratch PDF Book 8.0 - LFS - French](docs/LFS-8.0-fr.pdf)
+  - [Linux From Scratch PDF Book 8.3-systemd - LFS - French ](docs/LFS-8.3-fr-systemd.pdf)
